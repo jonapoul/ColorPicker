@@ -27,7 +27,7 @@ Add the `ColorPreference` to your preference XML:
 
   <PreferenceCategory>
 
-    <com.jaredrummler.android.colorpicker.ColorPreference
+    <com.jonapoul.colorpicker.ColorPreference
         android:defaultValue="@color/color_default"
         android:key="default_color"
         android:summary="@string/color_default_summary"
@@ -40,7 +40,7 @@ Add the `ColorPreference` to your preference XML:
 </PreferenceScreen>
 ```
 
-Note: Using AndroidX's `PreferenceFragmentCompat`? Then use `com.jaredrummler.android.colorpicker.ColorPreferenceCompat`
+Note: Using AndroidX's `PreferenceFragmentCompat`? Then use `com.jonapoul.colorpicker.ColorPreferenceCompat`
 
 You can add attributes to customize the `ColorPreference`:
 

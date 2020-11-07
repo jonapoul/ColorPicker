@@ -1,4 +1,4 @@
-package com.jaredrummler.android.colorpicker.demo;
+package com.jonapoul.colorpicker.demo;
 
 import android.annotation.SuppressLint;
 import android.os.Build;
