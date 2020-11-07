@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.android.colorpicker;
+package com.jonapoul.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -39,6 +39,8 @@ import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.jonapoul.colorpicker.R;
 
 /**
  * Displays a color picker to the user and allow them to select a color. A slider for the alpha channel is also

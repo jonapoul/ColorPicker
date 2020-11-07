@@ -13,7 +13,7 @@
       android:padding="16dp"
       >
 
-    <com.jaredrummler.android.colorpicker.NestedGridView
+    <com.jonapoul.colorpicker.NestedGridView
         android:id="@+id/gridView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

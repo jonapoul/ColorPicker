@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.android.colorpicker;
+package com.jonapoul.colorpicker;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -52,6 +52,8 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.core.graphics.ColorUtils;
 import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.FragmentActivity;
+
+import com.jonapoul.colorpicker.R;
 
 import java.util.Arrays;
 import java.util.Locale;

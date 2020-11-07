@@ -1,9 +1,9 @@
-package com.jaredrummler.android.colorpicker.demo;
+package com.jonapoul.colorpicker.demo;
 
 import android.os.Bundle;
 import android.util.Log;
 import androidx.preference.Preference;
-import com.jaredrummler.android.colorpicker.ColorPreferenceCompat;
+import com.jonapoul.colorpicker.ColorPreferenceCompat;
 
 public class DemoFragment extends BasePreferenceFragment {
 

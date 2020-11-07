@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.android.colorpicker.demo;
+package com.jonapoul.colorpicker.demo;
 
 import android.content.SharedPreferences;
 import android.graphics.PixelFormat;
@@ -24,9 +24,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import androidx.appcompat.app.AppCompatActivity;
-import com.jaredrummler.android.colorpicker.ColorPanelView;
-import com.jaredrummler.android.colorpicker.ColorPickerView;
-import com.jaredrummler.android.colorpicker.ColorPickerView.OnColorChangedListener;
+
+import com.jonapoul.colorpicker.ColorPanelView;
+import com.jonapoul.colorpicker.ColorPickerView;
+import com.jonapoul.colorpicker.ColorPickerView.OnColorChangedListener;
 
 public class ColorPickerActivity extends AppCompatActivity implements OnColorChangedListener, View.OnClickListener {
 

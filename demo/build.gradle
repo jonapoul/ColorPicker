@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
   compileSdkVersion buildConfig.compileSdk
   defaultConfig {
-    applicationId "com.jaredrummler.android.colorpicker.demo"
+    applicationId "com.jonapoul.colorpicker.demo"
     minSdkVersion buildConfig.minSdk
     targetSdkVersion buildConfig.targetSdk
     versionCode 1

@@ -33,7 +33,7 @@
       android:padding="22dp"
       >
 
-    <com.jaredrummler.android.colorpicker.ColorPickerView
+    <com.jonapoul.colorpicker.ColorPickerView
         android:id="@id/cpv_color_picker_view"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -51,7 +51,7 @@
         android:orientation="horizontal"
         >
 
-      <com.jaredrummler.android.colorpicker.ColorPanelView
+      <com.jonapoul.colorpicker.ColorPanelView
           android:id="@id/cpv_color_panel_old"
           android:layout_width="0px"
           android:layout_height="fill_parent"
@@ -71,7 +71,7 @@
           android:textSize="20sp"
           />
 
-      <com.jaredrummler.android.colorpicker.ColorPanelView
+      <com.jonapoul.colorpicker.ColorPanelView
           android:id="@id/cpv_color_panel_new"
           android:layout_width="0px"
           android:layout_height="fill_parent"

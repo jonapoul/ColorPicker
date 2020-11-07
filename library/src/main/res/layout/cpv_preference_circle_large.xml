@@ -1,4 +1,4 @@
-<com.jaredrummler.android.colorpicker.ColorPanelView
+<com.jonapoul.colorpicker.ColorPanelView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@id/cpv_preference_preview_color_panel"

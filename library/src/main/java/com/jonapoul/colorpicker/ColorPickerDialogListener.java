@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.android.colorpicker;
+package com.jonapoul.colorpicker;
 
 import androidx.annotation.ColorInt;
 

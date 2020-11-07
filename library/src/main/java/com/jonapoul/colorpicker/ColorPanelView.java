@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.android.colorpicker;
+package com.jonapoul.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -38,6 +38,9 @@ import android.widget.Toast;
 import androidx.annotation.ColorInt;
 import androidx.core.view.GravityCompat;
 import androidx.core.view.ViewCompat;
+
+import com.jonapoul.colorpicker.R;
+
 import java.util.Locale;
 
 /**
